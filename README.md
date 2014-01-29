@@ -1,4 +1,4 @@
 random-port-server
 ==================
 
-Coming soon...
+http://bleibinha.us/blog/2014/01/dynamic-apache-configuration-using-text-files
